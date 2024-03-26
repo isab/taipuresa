@@ -1,0 +1,2 @@
+# taipuresa
+Typeracer for Japanese
